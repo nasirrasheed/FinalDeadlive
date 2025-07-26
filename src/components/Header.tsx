@@ -58,7 +58,7 @@ const Header = () => {
           <div className="flex items-center space-x-3 animate-fade-in-left">
             <Ghost className="w-8 h-8 text-red-600" />
             <h1 className="text-2xl font-gothic font-bold text-white">
-              SpiritHunts UK
+              DeadLive
             </h1>
           </div>
 
