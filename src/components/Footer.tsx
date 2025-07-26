@@ -41,7 +41,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-3 mb-6">
               <Ghost className="w-8 h-8 text-red-600" />
-              <h3 className="text-2xl font-gothic font-bold">SpiritHunts UK</h3>
+              <h3 className="text-2xl font-gothic font-bold">DeadLive</h3>
             </div>
             
             <p className="text-gray-400 leading-relaxed mb-6">
