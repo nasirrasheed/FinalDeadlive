@@ -29,7 +29,7 @@ const About = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-gothic font-bold text-white mb-6">
-            About SpiritHunts UK
+            About DeadLive UK
           </h2>
           <div className="w-24 h-1 bg-red-600 mx-auto animate-flicker" />
         </div>
